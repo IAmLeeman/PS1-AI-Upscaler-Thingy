@@ -1,1 +1,3 @@
-// Entry point is the snapshot function of the beetle-psx mednafen core.
+// Entry point is the scanout function of the beetle-psx mednafen core.
+
+/// PSX-Parallel/renderer/renderer.cpp

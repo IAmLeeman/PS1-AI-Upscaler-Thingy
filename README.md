@@ -1,1 +1,5 @@
-So am I still waiting for this world to stop hating?
+
+It's a PSX Upscaler thingy.
+Why? I dunno.
+
+SUPAHAXOR 2025
