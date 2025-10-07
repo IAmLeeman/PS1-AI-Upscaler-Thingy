@@ -1,0 +1,1 @@
+// Entry point is the snapshot function of the beetle-psx mednafen core.
